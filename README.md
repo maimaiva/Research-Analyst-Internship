@@ -9,3 +9,5 @@
 - CAE 
 - Fidelity
 - Bloomberg
+
+**Financial Models** DCF, LBO, M&A
