@@ -5,7 +5,7 @@
 -	Assisted in developing business strategies and contributed to the business development of the enterprise.
 
 **Business Cases and Theses** (June 2021 - July 2021)
-- Goldman Sachs 
+- [Goldman Sachs!](https://github.com/maimaiva/Research-Analyst-Internship/blob/main/Thesis_GoldmanSachs.pdf)
 - CAE 
 - Fidelity
 - Bloomberg
